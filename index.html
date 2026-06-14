@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мои работы</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="glass-panel-left">
+        <div class="glass-header">
+            <span class="dot red"></span>
+            <span class="dot yellow"></span>
+            <span class="dot green"></span>
+            <h3>Навигация</h3>
+        </div>
+        <div class="glass-content">
+            <h2 class="panel-title">Мои работы</h2>
+            <div class="title-underline"></div>
+            <div class="empty-zone"></div>
+        </div>
+    </div>
+
+
+    <div class="glass-panel-right-top">
+        <div class="glass-header">
+            <span class="dot red"></span>
+            <span class="dot yellow"></span>
+            <span class="dot green"></span>
+            <h3>Плеер</h3>
+        </div>
+        <div class="glass-content">
+            <div class="player-box">
+                <div class="player-main-layout">
+                    <div class="player-left-side">
+                        <div class="player-meta">
+                            <img src="images/ynbs.jfif" alt="Обложка" class="track-cover" id="trackCover">
+                            <div class="track-info">
+                                <span class="track-title" id="trackTitle">Не боюсь смерти</span>
+                                <span class="track-artist" id="trackArtist" style="font-size: 0.8rem; opacity: 0.7;">Джем</span>
+                                <span id="playerStatus" class="track-sub">Готов к работе</span>
+                            </div>
+                        </div>
+
+                        <div class="timeline-container">
+                            <span id="currentTime" class="time-label">0:00</span>
+                            <input type="range" id="timeline" class="player-slider" min="0" max="100" value="0">
+                            <span id="durationTime" class="time-label">0:00</span>
+                        </div>
+
+
+                        <div class="player-controls">
+                            <button id="prevMusicBtn" class="glass-btn music-btn">⏮</button>
+                            <button id="playMusicBtn" class="glass-btn music-btn">Включить музыку</button>
+                            <button id="nextMusicBtn" class="glass-btn music-btn">⏭</button>
+                        </div>
+                    </div>
+
+
+                    <div class="player-right-side">
+                        <div class="volume-vertical-container">
+                            <span id="volumeValue" class="volume-label-top">70%</span>
+                            <div class="slider-wrapper">
+                                <input type="range" id="volumeSlider" class="player-slider vertical-slider" min="0" max="100" value="70">
+                            </div>
+                            <span class="volume-icon-bottom">🔊</span>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="glass-panel-right-bottom">
+        <div class="glass-header">
+            <span class="dot red"></span>
+            <span class="dot yellow"></span>
+            <span class="dot green"></span>
+            <h3>Эффекты</h3>
+        </div>
+        <div class="glass-content">
+            <div class="status-box">
+                <span>Движение пыли:</span>
+                <span id="statusText" class="status-online">Активно</span>
+            </div>
+            <button id="toggleBtn" class="glass-btn">Заморозить фон</button>
+        </div>
+    </div>
+
+
+    <canvas id="bokehCanvas"></canvas>
+
+    <script src="script.js"></script>
+</body>
+</html>
