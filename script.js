@@ -39,6 +39,18 @@ const playlist = [
         src: "music5.mp3",         
         cover: "images/bd.jfif" 
     },
+    {
+        title: " Fake ur face",
+        artist: "Джем",          
+        src: "music6.mp3",         
+        cover: "images/fuf.jfif" 
+    },
+    {
+        title: " Unhappy",
+        artist: "Джем",          
+        src: "music7.mp3",         
+        cover: "images/uh.jfif" 
+    },
 ];
 
 
