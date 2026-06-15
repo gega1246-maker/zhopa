@@ -50,7 +50,7 @@ const playlist = [
         artist: "Джем",          
         src: "music7.mp3",         
         cover: "images/uh.jpg" 
-    }
+    },
 ];
 
 
