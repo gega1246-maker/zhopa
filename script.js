@@ -22,12 +22,13 @@ const playlist = [
         cover: "images/plenka.jpg" 
     },
     {
-        title: "В кабинете у директора",
-        artist: "Джем",
-        src: "music3.mp3",          
-        cover: "images/vkyd.jfif"  
+        title: "В КАБИНЕТЕ У ДИРЕКТОРА",
+        artist: "Джем",          
+        src: "music3.mp3",         
+        cover: "images/vkyd.jfif" 
     }
 ];
+
 
 
 let currentTrackIndex = 0;
