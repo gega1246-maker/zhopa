@@ -49,7 +49,7 @@ const playlist = [
         title: " Unhappy",
         artist: "Джем",          
         src: "music7.mp3",         
-        cover: "images/uh.jfif" 
+        cover: "images/uh.jpg" 
     },
 ];
 
