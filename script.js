@@ -26,7 +26,19 @@ const playlist = [
         artist: "Джем",          
         src: "music3.mp3",         
         cover: "images/vkyd.jfif" 
-    }
+    },
+    {
+        title: " I'm so crazy for youuu ᐸ/3",
+        artist: "Джем",          
+        src: "music4.mp3",         
+        cover: "images/iscfy.jfif" 
+    },
+    {
+        title: " Babydoll",
+        artist: "Джем",          
+        src: "music5.mp3",         
+        cover: "images/bd.jfif" 
+    },
 ];
 
 
