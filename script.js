@@ -51,6 +51,18 @@ const playlist = [
         src: "music7.mp3",         
         cover: "images/uh.jpg" 
     },
+    {
+        title: " Ангелочек",
+        artist: "Джем",          
+        src: "music8.mp3",         
+        cover: "images/tmma.jfif" 
+    },
+    {
+        title: " Грустинка",
+        artist: "Джем",          
+        src: "music9.mp3",         
+        cover: "images/gr.jfif" 
+    }
 ];
 
 
