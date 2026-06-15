@@ -20,6 +20,12 @@ const playlist = [
         artist: "Джем",
         src: "music2.mp3",         
         cover: "images/plenka.jpg" 
+    },
+    {
+        title: "В кабинете у директора",
+        artist: "Джем",
+        src: "music3.mp3",          
+        cover: "images/vkyd.jfif"  
     }
 ];
 
