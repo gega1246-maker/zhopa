@@ -62,6 +62,12 @@ const playlist = [
         artist: "Джем",          
         src: "music9.mp3",         
         cover: "images/gr.jfif" 
+    },
+    {
+        title: " Я одна",
+        artist: "Джем",          
+        src: "music10.mp3",         
+        cover: "images/iod.jfif" 
     }
 ];
 
