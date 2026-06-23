@@ -20,7 +20,7 @@ canvas {
     z-index: 1;
 }
 
-.glass-panel-left, .glass-panel-right-top, .glass-panel-right-bottom,.glass-panel-up {
+.glass-panel-left, .glass-panel-right-top, .glass-panel-right-bottom, .glass-panel-up {
     position: absolute;
     background: rgba(255, 255, 255, 0.03);
     backdrop-filter: blur(15px);
@@ -34,17 +34,17 @@ canvas {
 .glass-panel-left {
     top: 20px;
     left: 20px;
-    width: 320px;
+    width: 300px;
     height: calc(100vh - 40px);
     border-radius: 16px;
-    box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.5);
+    box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.6);
 }
 
 .glass-panel-up {
     top: 20px;
-    left: 345px;
-    width: 600px;
-    height: calc(100vh - 450x);
+    left: 330px;
+    right: 370px;
+    height: calc(100vh - 450px);
     border-radius: 16px;
     box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.5);
 }
