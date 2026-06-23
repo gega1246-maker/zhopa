@@ -44,20 +44,24 @@ canvas {
     top: 20px;
     left: 330px;
     right: 370px;
-    height: calc(100vh - 450px);
+    bottom: 390px;
     border-radius: 16px;
     box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
 }
 
 .glass-panel-right-top {
     top: 20px;
     right: 20px;
     width: 340px;
+    height: 350px;
     border-radius: 16px;
     box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.6);
 }
 
 .glass-panel-right-bottom {
+    top: 390px;
     bottom: 20px;
     right: 20px;
     width: 340px;
@@ -93,6 +97,8 @@ canvas {
 
 .glass-content {
     padding: 20px;
+    flex: 1;
+    overflow-y: auto;
 }
 
 .panel-title {
