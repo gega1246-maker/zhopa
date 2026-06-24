@@ -68,6 +68,12 @@ const playlist = [
         artist: "Джем",          
         src: "music10.mp3",         
         cover: "images/iod.jfif" 
+    },
+    {
+        title: " Вызвал шлюху",
+        artist: "Джем",          
+        src: "music11.mp3",         
+        cover: "images/vsh.jpg" 
     }
 ];
 
