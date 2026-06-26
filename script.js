@@ -74,6 +74,12 @@ const playlist = [
         artist: "Джем",          
         src: "music11.mp3",         
         cover: "images/vsh.jpg" 
+    },
+    {
+        title: " Party Troll",
+        artist: "Джем",          
+        src: "music12.mp3",         
+        cover: "images/pt.jfif" 
     }
 ];
 
