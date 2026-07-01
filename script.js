@@ -80,6 +80,174 @@ const playlist = [
         artist: "Джем",          
         src: "music12.mp3",         
         cover: "images/pt.jfif" 
+    },
+    {
+        title: " На поле боя",
+        artist: "Джем",          
+        src: "music13.mp3",         
+        cover: "images/npb.jfif" 
+    },
+    {
+        title: " Life Goes On",
+        artist: "Джем",          
+        src: "music14.mp3",         
+        cover: "images/lgo.jfif" 
+    },
+    {
+        title: " MATRIX (BL STUDIO LOOP)",
+        artist: "Джем",          
+        src: "music15.mp3",         
+        cover: "images/m.jfif" 
+    },
+    {
+        title: " Демоница",
+        artist: "Джем",          
+        src: "music16.mp3",         
+        cover: "images/d.jfif" 
+    },
+    {
+        title: " dj play this song",
+        artist: "Джем",          
+        src: "music17.mp3",         
+        cover: "images/dj.jfif" 
+    },
+    {
+        title: " not enough",
+        artist: "Джем",          
+        src: "music18.mp3",         
+        cover: "images/ne.jfif" 
+    },
+    {
+        title: " terranova",
+        artist: "Джем",          
+        src: "music19.mp3",         
+        cover: "images/t.jfif" 
+    },
+    {
+        title: " Calabria-2007",
+        artist: "Джем",          
+        src: "music20.mp3",         
+        cover: "images/c.jpg" 
+    },
+    {
+        title: " Утро",
+        artist: "Джем",          
+        src: "music21.mp3",         
+        cover: "images/y.png" 
+    },
+    {
+        title: " КО МНЕ ДОМОЙ",
+        artist: "Джем",          
+        src: "music22.mp3",         
+        cover: "images/kmd.jfif" 
+    },
+    {
+        title: " Я целую твои сломы",
+        artist: "Джем",          
+        src: "music23.mp3",         
+        cover: "images/ictc.jfif" 
+    },
+    {
+        title: " Улыбашка",
+        artist: "Джем",          
+        src: "music24.mp3",         
+        cover: "images/y.jfif" 
+    },
+    {
+        title: " All I Ever Wanted",
+        artist: "Джем",          
+        src: "music25.mp3",         
+        cover: "images/aiew.jfif" 
+    },
+    {
+        title: " BANG BANG BANG",
+        artist: "Джем",          
+        src: "music26.mp3",         
+        cover: "images/bbb.jpg" 
+    },
+    {
+        title: " Bass Da Da Da (Sentadão)",
+        artist: "Джем",          
+        src: "music27.mp3",         
+        cover: "images/bddd.jfif" 
+    },
+    {
+        title: " Safe And Sound",
+        artist: "Джем",          
+        src: "music28.mp3",         
+        cover: "images/sas.jfif" 
+    },
+    {
+        title: " Cure For Me",
+        artist: "Джем",          
+        src: "music29.mp3",         
+        cover: "images/cfm.jfif" 
+    },
+    {
+        title: " VLONE",
+        artist: "Джем",          
+        src: "music30.mp3",         
+        cover: "images/vlone.jpg" 
+    },
+    {
+        title: " give me hints",
+        artist: "Джем",          
+        src: "music31.mp3",         
+        cover: "images/gmh.jpg" 
+    },
+    {
+        title: " hunter eyes",
+        artist: "Джем",          
+        src: "music32.mp3",         
+        cover: "images/he.jfif" 
+    },
+    {
+        title: " have no friends",
+        artist: "Джем",          
+        src: "music33.mp3",         
+        cover: "images/hnf.jfif" 
+    },
+    {
+        title: " Маршрутка",
+        artist: "Джем",          
+        src: "music34.mp3",         
+        cover: "images/marshrytka.jpg" 
+    },
+    {
+        title: " Kiss Me Again",
+        artist: "Джем",          
+        src: "music35.mp3",         
+        cover: "images/kma.png" 
+    },
+    {
+        title: " lose her",
+        artist: "Джем",          
+        src: "music36.mp3",         
+        cover: "images/lh.jfif" 
+    },
+    {
+        title: " Sua Eu You Pegar",
+        artist: "Джем",          
+        src: "music37.mp3",         
+        cover: "images/seyp.jfif" 
+    },
+    {
+        title: " Just The Way You Are",
+        artist: "Джем",          
+        src: "music38.mp3",         
+        cover: "images/jtwya.jfif" 
+    },
+    {
+        title: " Mirrors demo - happy version",
+        artist: "Джем",          
+        src: "music39.mp3",         
+        cover: "images/mdhp.jfif" 
+    },
+    {
+        title: " More And More",
+        artist: "Джем",          
+        src: "music40.mp3",         
+        cover: "images/mam.jpg" 
     }
 ];
 
