@@ -392,3 +392,33 @@ canvas {
 .Discord:active {
     transform: translateY(1px);
 }
+
+.jobs {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 24px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #ffffff;
+    background: rgba(88, 101, 242, 0.15); 
+    border: 1px solid rgba(88, 101, 242, 0.4);
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    transition: all 0.3s ease;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+}
+
+.jobs:hover {
+    background: rgba(88, 101, 242, 0.35);
+    border-color: rgba(167, 139, 250, 0.6);
+    box-shadow: 0 0 20px rgba(88, 101, 242, 0.4);
+    transform: translateY(-2px);
+}
+
+.jobs:active {
+    transform: translateY(1px);
+}

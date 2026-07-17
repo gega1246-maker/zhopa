@@ -248,7 +248,49 @@ const playlist = [
         artist: "Джем",          
         src: "music40.mp3",         
         cover: "images/mam.jpg" 
-    }
+    },
+    {
+        title: " Батареи",
+        artist: "Джем",          
+        src: "music41.mp3",         
+        cover: "images/batar.jpg" 
+    },
+    {
+        title: " Нервы",
+        artist: "Джем",          
+        src: "music42.mp3",         
+        cover: "images/batar.jpg" 
+    },
+    {
+        title: " Родной город",
+        artist: "Джем",          
+        src: "music43.mp3",         
+        cover: "images/rgorod.png" 
+    },
+    {
+        title: " Лето, плавки, рок-н-ролл",
+        artist: "Джем",          
+        src: "music44.mp3",         
+        cover: "images/lprnr.jpg" 
+    },
+    {
+        title: " Все мои друзья",
+        artist: "Джем",          
+        src: "music45.mp3",         
+        cover: "images/vsemoidr.jpg" 
+    },
+    {
+        title: " Я бью женщин и детей",
+        artist: "Джем",          
+        src: "music46.mp3",         
+        cover: "images/ibzad.png" 
+    },
+    {
+        title: " Верните в моду любовь",
+        artist: "Джем",          
+        src: "music47.mp3",         
+        cover: "images/vervml.jpg" 
+    },
 ];
 
 
