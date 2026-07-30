@@ -291,6 +291,48 @@ const playlist = [
         src: "music47.mp3",         
         cover: "images/vervml.jpg" 
     },
+    {
+        title: " ТЫЦЫН-ДЫЦЫН",
+        artist: "Джем",          
+        src: "music48.mp3",         
+        cover: "images/td.webp" 
+    },
+    {
+        title: " Недоступна",
+        artist: "Джем",          
+        src: "music49.mp3",         
+        cover: "images/nedost.webp" 
+    },
+    {
+        title: " Не представляешь",
+        artist: "Джем",          
+        src: "music50.mp3",         
+        cover: "images/nepred.webp" 
+    },
+    {
+        title: " Силует",
+        artist: "Джем",          
+        src: "music51.mp3",         
+        cover: "images/siluet.jpg" 
+    },
+    {
+        title: " След",
+        artist: "Джем",          
+        src: "music52.mp3",         
+        cover: "images/sled.png" 
+    },
+    {
+        title: " Настоящая",
+        artist: "Джем",          
+        src: "music53.mp3",         
+        cover: "images/nast.png" 
+    },
+    {
+        title: " Щёлк",
+        artist: "Джем",          
+        src: "music54.mp3",         
+        cover: "images/shelk.png" 
+    },
 ];
 
 
