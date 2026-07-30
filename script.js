@@ -328,7 +328,7 @@ const playlist = [
         cover: "images/nast.png" 
     },
     {
-        title: " Щёлк",
+        title: " Шёлк",
         artist: "Джем",          
         src: "music54.mp3",         
         cover: "images/shelk.png" 
