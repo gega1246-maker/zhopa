@@ -333,6 +333,12 @@ const playlist = [
         src: "music54.mp3",         
         cover: "images/shelk.png" 
     },
+    {
+        title: " Misery",
+        artist: "Джем",          
+        src: "music55.mp3",         
+        cover: "images/music55.png" 
+    },
 ];
 
 
