@@ -310,7 +310,7 @@ const playlist = [
         cover: "images/nepred.webp" 
     },
     {
-        title: " Силует",
+        title: " Силуэт",
         artist: "Джем",          
         src: "music51.mp3",         
         cover: "images/siluet.jpg" 
